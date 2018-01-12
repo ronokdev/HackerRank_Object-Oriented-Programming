@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  
-  HackerRank Url :: https://www.hackerrank.com/challenges/java-inheritance-1/problem
+  HackerRank Url :: https://www.hackerrank.com/challenges/java-inheritance-2/problem
  
  
  */
